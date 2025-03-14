@@ -51,8 +51,7 @@ root = tk.Tk()
 root.geometry("300x265")
 root.configure(background="grey")
 root.title ("HOP Calculator")
-root.iconbitmap(r"C:\Users\hijrc\Desktop\Coding Projects\2025 Projects\HOP-Calculator\calc.ico")
-
+root.iconbitmap("calc.ico")
 #Upper text column:
 
 text_result = tk.Text(root, height=2, width=16, font=("Arial",24))
