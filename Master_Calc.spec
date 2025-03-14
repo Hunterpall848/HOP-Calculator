@@ -5,7 +5,7 @@ a = Analysis(
     ['Master_Calc.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('calc.ico', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
