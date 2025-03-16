@@ -1,4 +1,4 @@
-Basic Calculator made by HUnter Pallister using Python and unconventionally Tkinter.
+Basic Calculator made by Hunter Pallister using Python and unconventionally Tkinter.
 
 Features:
 --Cappable of simple operations, as well as multi step operations.
